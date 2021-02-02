@@ -1,4 +1,4 @@
-Package: shintoMCE
+Package: shintomce
 Type: Package
 Title: Use tinyMCE editor in Shiny apps
 Version: 0.1
